@@ -15,10 +15,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darlysson.pires/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlison-pires-128a00216/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:darlison.pires.corporativo@gmail.com")
+
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Darlysson717&show_icons=true&theme=gotham)
-<img height="195.2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlysson717&layout=compact&langs_count=7&theme=gotham"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlysson717&layout=compact&langs_count=7&theme=gotham"/>
 
+
+<!-- Linguagens de programação -->
 ##
 
 
