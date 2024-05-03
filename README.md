@@ -8,7 +8,7 @@
 - 🔭 atualmente estou trabalhando como auxiliar administrativo
 - 🌱 progredindo no curso de front-end pela Alura
 - 👽 BICT / ENGENHARIA DA COMPUTAÇÃO / UFMA - UNIVERSIDADE FEDERAL DO MARANHÃO
-- 📫 How to reach me: telefone (98)99129-7216 ou darlison.pires.corporativo@gmail.com
+- 📫 How to reach me: telefone: (98) 99129-7216 
 - ⚡ Fun fact: músico nas horas vagas
 ...
 <!-- Links -->
