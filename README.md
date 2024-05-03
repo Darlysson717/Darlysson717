@@ -5,7 +5,7 @@
 </div>
  
  
-- 🔭 atualmente estou traalhando como auxiliar administrativo
+- 🔭 atualmente estou trabalhando como auxiliar administrativo
 - 🌱 progredindo no curso de front-end pela Alura
 - 👽 BICT / ENGENHARIA DA COMPUTAÇÃO / UFMA - UNIVERSIDADE FEDERAL DO MARANHÃO
 - 📫 How to reach me: telefone (98)99129-7216 ou darlison.pires.corporativo@gmail.com
