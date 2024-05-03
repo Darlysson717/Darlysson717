@@ -18,7 +18,7 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Darlysson717&show_icons=true&theme=gotham)
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlysson717&layout=compact&langs_count=7&theme=gotham"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlysson717&layout=compact&langs_count=7&theme=gotham"/>
 
 
 <!-- Linguagens de programação -->
